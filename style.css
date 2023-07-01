@@ -1428,3 +1428,13 @@ body{
         height: 350px;
     }
   }
+
+.logo .trix1{
+    width: 150px;
+  }
+
+@media (min-width: 322px){
+.logo .trix1{
+    width: 150px;
+  }
+}
